@@ -8,4 +8,9 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="appbar_elevation">4dp</dimen>
+
+    <dimen name="activity_margin">16dp</dimen>
+
+    <dimen name="list_card_view_margin">4dp</dimen>
 </resources>
